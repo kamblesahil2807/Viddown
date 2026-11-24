@@ -1,0 +1,6 @@
+{
+  "name": "Video Downloader",
+  "description": "Modern SaaS video manager and downloader for authorized media with format selection, YouTube URL validation, and offline instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
